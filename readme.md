@@ -31,3 +31,7 @@ Plutot pour typé des éléments
 - Les primitifs et construction de type
 - Objet sans logique (sans classe)
 - Argument de fonction
+
+
+## Documentation des décorateurs
+https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators
